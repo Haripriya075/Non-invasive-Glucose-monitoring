@@ -139,7 +139,7 @@ Based on the evaluation metrics:
 - Successfully developed a non-invasive glucose monitoring prototype.
 - Real-time pulse rate monitoring implemented.
 - Machine learning models trained and compared.
-- Random Forest provided the highest prediction accuracy among all evaluated models.
+- KNN provided the highest prediction accuracy among all evaluated models.
 
 ---
 
