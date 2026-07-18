@@ -99,7 +99,6 @@ OLED Display
 ## Machine Learning Models Evaluated
 
 - Linear Regression
-- K-Nearest Neighbors (KNN)
 - Random Forest Regression
 
 ---
@@ -118,7 +117,7 @@ OLED Display
 |--------|-----|----------|----------|
 | Linear Regression | 37.11 | 0.95 | 70% |
 | Random Forest | 26.26 | 0.97 | 90% |
-| K-Nearest Neighbors | **14.86** | **0.98** | **100%** |
+
 
 ---
 
@@ -130,7 +129,7 @@ Based on the evaluation metrics:
 - Highest R² Score
 - Highest Prediction Accuracy
 
-**K-Nearest Neighbors (KNN)** achieved the best overall performance for glucose prediction and was selected as the final model for this project.
+**Random Forest (RN)** achieved the best overall performance for glucose prediction and was selected as the final model for this project.
 
 ---
 
@@ -139,7 +138,7 @@ Based on the evaluation metrics:
 - Successfully developed a non-invasive glucose monitoring prototype.
 - Real-time pulse rate monitoring implemented.
 - Machine learning models trained and compared.
-- KNN provided the highest prediction accuracy among all evaluated models.
+- RN provided the highest prediction accuracy among all evaluated models.
 
 ---
 
