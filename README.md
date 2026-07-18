@@ -1,6 +1,5 @@
 # Non-invasive-Glucose-monitoring
 Non-invasive glucose and pulse monitoring system using Arduino, optical sensors, and signal processing techniques with real-time display.
-# Non-Invasive Glucose Monitoring System
 
 ## Overview
 This project presents a non-invasive glucose monitoring system developed as my final-year undergraduate project. The system uses optical sensing techniques and Arduino-based embedded hardware to estimate glucose levels and monitor pulse rate in real time.
