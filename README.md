@@ -171,7 +171,6 @@ Presentation/
 ## Technologies Used
 
 - Arduino
-- Embedded C
 - Python
 - Scikit-learn
 - Pandas
